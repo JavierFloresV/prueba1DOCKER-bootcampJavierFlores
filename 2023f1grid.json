@@ -1,0 +1,181 @@
+[{
+  "_id": {
+    "$oid": "64585930039fe5bbe4fc85b9"
+  },
+  "driver": "Lewis Hamilton",
+  "team": "Mercedes",
+  "country": "Great Britain",
+  "points": 90,
+  "wins": 3
+},{
+  "_id": {
+    "$oid": "64585930039fe5bbe4fc85ba"
+  },
+  "driver": "Max Verstappen",
+  "team": "Red Bull Racing",
+  "country": "Netherlands",
+  "points": 86,
+  "wins": 2
+},{
+  "_id": {
+    "$oid": "64585930039fe5bbe4fc85bb"
+  },
+  "driver": "Sergio Perez",
+  "team": "Red Bull Racing",
+  "country": "Mexico",
+  "points": 58,
+  "wins": 0
+},{
+  "_id": {
+    "$oid": "64585930039fe5bbe4fc85bc"
+  },
+  "driver": "Valtteri Bottas",
+  "team": "Mercedes",
+  "country": "Finland",
+  "points": 48,
+  "wins": 0
+},{
+  "_id": {
+    "$oid": "64585930039fe5bbe4fc85bd"
+  },
+  "driver": "Lando Norris",
+  "team": "McLaren",
+  "country": "Great Britain",
+  "points": 41,
+  "wins": 0
+},{
+  "_id": {
+    "$oid": "64585930039fe5bbe4fc85be"
+  },
+  "driver": "Charles Leclerc",
+  "team": "Ferrari",
+  "country": "Monaco",
+  "points": 40,
+  "wins": 0
+},{
+  "_id": {
+    "$oid": "64585930039fe5bbe4fc85bf"
+  },
+  "driver": "Carlos Sainz",
+  "team": "Ferrari",
+  "country": "Spain",
+  "points": 38,
+  "wins": 0
+},{
+  "_id": {
+    "$oid": "64585930039fe5bbe4fc85c0"
+  },
+  "driver": "George Russell",
+  "team": "Williams",
+  "country": "Great Britain",
+  "points": 16,
+  "wins": 0
+},{
+  "_id": {
+    "$oid": "64585930039fe5bbe4fc85c1"
+  },
+  "driver": "Esteban Ocon",
+  "team": "Alpine",
+  "country": "France",
+  "points": 14,
+  "wins": 0
+},{
+  "_id": {
+    "$oid": "64585930039fe5bbe4fc85c2"
+  },
+  "driver": "Pierre Gasly",
+  "team": "AlphaTauri",
+  "country": "France",
+  "points": 12,
+  "wins": 0
+},{
+  "_id": {
+    "$oid": "64585a29039fe5bbe4fc85c3"
+  },
+  "driver": "Lewis Hamilton",
+  "team": "Mercedes",
+  "country": "Great Britain",
+  "points": 90,
+  "wins": 3
+},{
+  "_id": {
+    "$oid": "64585a29039fe5bbe4fc85c4"
+  },
+  "driver": "Max Verstappen",
+  "team": "Red Bull Racing",
+  "country": "Netherlands",
+  "points": 86,
+  "wins": 2
+},{
+  "_id": {
+    "$oid": "64585a29039fe5bbe4fc85c5"
+  },
+  "driver": "Sergio Perez",
+  "team": "Red Bull Racing",
+  "country": "Mexico",
+  "points": 58,
+  "wins": 0
+},{
+  "_id": {
+    "$oid": "64585a29039fe5bbe4fc85c6"
+  },
+  "driver": "Valtteri Bottas",
+  "team": "Mercedes",
+  "country": "Finland",
+  "points": 48,
+  "wins": 0
+},{
+  "_id": {
+    "$oid": "64585a29039fe5bbe4fc85c7"
+  },
+  "driver": "Lando Norris",
+  "team": "McLaren",
+  "country": "Great Britain",
+  "points": 41,
+  "wins": 0
+},{
+  "_id": {
+    "$oid": "64585a29039fe5bbe4fc85c8"
+  },
+  "driver": "Charles Leclerc",
+  "team": "Ferrari",
+  "country": "Monaco",
+  "points": 40,
+  "wins": 0
+},{
+  "_id": {
+    "$oid": "64585a29039fe5bbe4fc85c9"
+  },
+  "driver": "Carlos Sainz",
+  "team": "Ferrari",
+  "country": "Spain",
+  "points": 38,
+  "wins": 0
+},{
+  "_id": {
+    "$oid": "64585a29039fe5bbe4fc85ca"
+  },
+  "driver": "George Russell",
+  "team": "Williams",
+  "country": "Great Britain",
+  "points": 16,
+  "wins": 0
+},{
+  "_id": {
+    "$oid": "64585a29039fe5bbe4fc85cb"
+  },
+  "driver": "Esteban Ocon",
+  "team": "Alpine",
+  "country": "France",
+  "points": 14,
+  "wins": 0
+},{
+  "_id": {
+    "$oid": "64585a29039fe5bbe4fc85cc"
+  },
+  "driver": "Pierre Gasly",
+  "team": "AlphaTauri",
+  "country": "France",
+  "points": 12,
+  "wins": 0
+}]
